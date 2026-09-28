@@ -9,8 +9,6 @@ This repository contains the public landing page required for the BSE2201 Softwa
 ## Technologies
 - HTML5
 - CSS3
-- Minimal JavaScript for mobile navigation
-
 ## Team Contributions
 1. ZUTRT-01 - Navigation and project structure
 2. ZUTRT-02 - Home/Hero section
